@@ -1,5 +1,5 @@
 # ChatGPTclone
-a ChatGPT clone build using Llama-3 that runs locally on your computer the original idea is derived by a twitter post by @Saboo_Shubham_
+a ChatGPT clone build using Llama-3 that runs locally on your computer the original idea is inspired by a twitter post by @Saboo_Shubham_
 
 **Requirements:**
 1- Python 3.11
